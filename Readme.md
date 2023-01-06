@@ -1,11 +1,5 @@
-```python
 ![alt text](https://reverbico.com/wp-content/uploads/2021/04/what-is-customer-lifetime-value.jpg)
-```
-
-    '[alt' is not recognized as an internal or external command,
-    operable program or batch file.
     
-
 # G-NBD ve Gamma-Gamma ile CLTV Tahmini
 
 ---
